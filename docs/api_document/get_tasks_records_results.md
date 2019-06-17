@@ -1,5 +1,7 @@
 # 读取记录查重结果
 
+---
+
 ## 请求地址
 
 - /review/v1/tasks/:task/records/:record/results
